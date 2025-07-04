@@ -36,3 +36,10 @@ Document My Pentest creates a description of whatever you are trying to test. Wh
 Repeater Strike is an AI-powered tool that helps uncover IDOR and other vulnerabilities by analyzing your Repeater requests. It automatically generates targeted regular expressions based on the requests and responses you're testing. Once a vulnerability is detected, these regexes are applied to your proxy history to rapidly identify similar issues across your entire traffic, helping you scale your findings and save time.
 
 [Repeater Strike source code](https://github.com/hackvertor/repeat-strike/)
+
+## Other links
+* [My Website](https://garethheyes.co.uk)
+* [Twitter](https://x.com/garethheyes)
+* [LinkedIn](https://www.linkedin.com/in/gareth-heyes-25a62b2/)
+* [BlueSky](https://bsky.app/profile/garethheyes.co.uk)
+* [Mastodon](https://infosec.exchange/@gaz)
