@@ -38,7 +38,8 @@ Repeater Strike is an AI-powered tool that helps uncover IDOR and other vulnerab
 [Repeater Strike source code](https://github.com/hackvertor/repeat-strike/)
 
 ## Other links
-* [My Website](https://garethheyes.co.uk)
+* [My website](https://garethheyes.co.uk)
+* [My blog](https://thespanner.co.uk)
 * [Twitter](https://x.com/garethheyes)
 * [LinkedIn](https://www.linkedin.com/in/gareth-heyes-25a62b2/)
 * [BlueSky](https://bsky.app/profile/garethheyes.co.uk)
