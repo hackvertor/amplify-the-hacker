@@ -2,7 +2,7 @@
 
 ## Offensive AI plugin development
 
-This repository is to store materials and links for my [SteelCon](https://www.steelcon.info/) talk "Amplify the hacker"
+This repository is to store materials and links for my [SteelCon](https://www.steelcon.info/) talk "[Amplify the hacker](https://www.steelcon.info/2025-steelcon/2025-speakers/#:~:text=AMPLIFY%20THE%20HACKER%3A%20OFFENSIVE%20AI%20PLUGIN%20DEVELOPMENT%20(PG))"
 
 ![Hackvertor logo](https://github.com/hackvertor/amplify-the-hacker/blob/main/logos/hackvertor-logo.png)
 
